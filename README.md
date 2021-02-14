@@ -53,6 +53,6 @@ You're sections headers will be used to reference location of destination.
 
 ## Author Info
 
-
+[Linkedin] (https://www.linkedin.com/in/kirolosguirguis/)
 
 [Back To The Top](#crypto_systems_algorithms)
