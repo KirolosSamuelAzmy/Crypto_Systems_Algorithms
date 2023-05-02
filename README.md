@@ -15,7 +15,7 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-#### ** It is an implementation of cryptography algorithms such as : 
+#### It is an implementation of cryptography algorithms such as: 
 ##### 1. Classical ciphers which are : 
 - Caesar Cipher
 - Hill Cipher
